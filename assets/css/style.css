@@ -1,0 +1,26 @@
+#logo{
+    background: url(../img/sh1.jpg);
+    height: 300px;
+    width: 380px;
+    background-size: cover;
+    margin: auto;
+}
+
+h1, h3{
+    font-family:Cabin, sans-serif;
+}
+h3{
+    font-size: 30px;
+}
+
+footer{
+    background-color: rgb(59, 61, 60);
+    color:#FFFFFF;
+    font-family:Cabin, sans-serif;
+    height:100px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 50px;
+    font-size: 20px;
+}
